@@ -8,3 +8,12 @@ In this project we will deal with some basic programs of c to understand the bas
 :-Find the volume of each box that can be successfully transported to the other end of the tunnel.
 :-Note: Boxes cannot be rotated.
 The given wap consist of easiest way to solve the above problem.
+
+2:-
+ Here we are given n triangles, specifically, their sides a,b and c.  we have to Print them in the same style but sorted by their areas from the smallest one to the largest one. It is guaranteed that all the areas are different.
+
+The best way to calculate a volume of the triangle with sides a,b and c is Heron's formula:
+The given wap give the easiest and straight forward way to solve this problem.
+
+
+

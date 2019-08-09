@@ -15,5 +15,9 @@ The given wap consist of easiest way to solve the above problem.
 The best way to calculate a volume of the triangle with sides a,b and c is Heron's formula:
 The given wap give the easiest and straight forward way to solve this problem.
 
+3:-
+ In this program we will learn hoow to sort a given array using quick sort algorithm.
+ Quick sort algorithm is based on divide and conqure approach.
+ here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition.
 
 

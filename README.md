@@ -19,5 +19,12 @@ The given wap give the easiest and straight forward way to solve this problem.
  In this program we will learn hoow to sort a given array using quick sort algorithm.
  Quick sort algorithm is based on divide and conqure approach.
  here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition.
+ 
+ 4:-
+ Numeros the Artist had two lists that were permutations of one another. He was very proud. Unfortunately, while transporting them from one exhibition to another, some numbers were lost out of the first list. Can you find the missing numbers?
+
+As an example, the array with some numbers missing,a=[1,4,3,6,2,7] . The original array of numbers b=[1,5,4,3,7,8] . The numbers missing are [6,2].
+
+The given program gives us the way to solve the given problem.
 
 

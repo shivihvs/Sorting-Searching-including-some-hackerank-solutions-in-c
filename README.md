@@ -41,5 +41,10 @@ Repeat the process till a single sorted list of obtained.
 Binary search is the most popular Search algorithm.It is efficient and also one of the most commonly used techniques that is used to solve problems.
 Binary search works only on a sorted set of elements. To use binary search on a collection, the collection must first be sorted.
 
+7:-
+LINEAR SEARCH:-
+Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one.
 
+8:-SELECTION SORT:
+This code implements selection sort algorithm to arrange numbers of an array in ascending order. With a little modification, it will arrange numbers in descending order.
 

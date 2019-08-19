@@ -17,7 +17,7 @@ The given wap give the easiest and straight forward way to solve this problem.](
 3:-
  [In this program we will learn hoow to sort a given array using quick sort algorithm.
  Quick sort algorithm is based on divide and conqure approach.
- here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition.[(quick_sort.cpp)
+ here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition](quick_sort.cpp)
  
  4:-
 [ Numeros the Artist had two lists that were permutations of one another. He was very proud. Unfortunately, while transporting them from one exhibition to another, some numbers were lost out of the first list. Can you find the missing numbers?

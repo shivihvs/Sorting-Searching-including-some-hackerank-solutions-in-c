@@ -21,29 +21,25 @@ The given wap give the easiest and straight forward way to solve this problem.
  here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition.
  
  4:-
- Numeros the Artist had two lists that were permutations of one another. He was very proud. Unfortunately, while transporting them from one exhibition to another, some numbers were lost out of the first list. Can you find the missing numbers?
-
-As an example, the array with some numbers missing,a=[1,4,3,6,2,7] . The original array of numbers b=[1,5,4,3,7,8] . The numbers missing are [6,2].
+[ Numeros the Artist had two lists that were permutations of one another. He was very proud. Unfortunately, while transporting them from one exhibition to another, some numbers were lost out of the first list. Can you find the missing numbers?
+As an example, the array with some numbers missing,a=(1,4,3,6,2,7).The original array of numbers b=(1,5,4,3,7,8) . The numbers missing are [6,2]](missingnumber.cpp)
 
 The given program gives us the way to solve the given problem.
 
 
 5:-
-Merge sort is a divide-and-conquer algorithm based on the idea of breaking down a list into several sub-lists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
-
-Idea:
-
+[Merge sort is a divide-and-conquer algorithm based on the idea of breaking down a list into several sub-lists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
 Divide the unsorted list into N sublists, each containing  element.
 Take adjacent pairs of two singleton lists and merge them to form a list of 2 elements. N will now convert into N/2 lists of size 2.
-Repeat the process till a single sorted list of obtained.
+Repeat the process till a single sorted list of obtained.](merge_sort.cpp)
 
 6:- 
-Binary search is the most popular Search algorithm.It is efficient and also one of the most commonly used techniques that is used to solve problems.
-Binary search works only on a sorted set of elements. To use binary search on a collection, the collection must first be sorted.
+[Binary search is the most popular Search algorithm.It is efficient and also one of the most commonly used techniques that is used to solve problems.
+Binary search works only on a sorted set of elements. To use binary search on a collection, the collection must first be sorted.](binarysearch.cpp)
 
 7:-
-LINEAR SEARCH:-
-Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one.
+[LINEAR SEARCH:-
+Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one.](linearsearch.cpp)
 
 [8:-SELECTION SORT:
 This code implements selection sort algorithm to arrange numbers of an array in ascending order. With a little modification, it will arrange numbers in descending order.](SelectionSort.cpp)

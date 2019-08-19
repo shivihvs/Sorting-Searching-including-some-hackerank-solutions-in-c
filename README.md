@@ -1,24 +1,23 @@
 In this project we will deal with some basic programs of c to understand the basics of c language in a better way.
 
 1:-
-:-we have to are transport some boxes through a tunnel, where each box is a parallelepiped, and is characterized by its length, width 
+[:-we have to are transport some boxes through a tunnel, where each box is a parallelepiped, and is characterized by its length, width 
   and height.
 :-The height of the tunnel  feet and the width can be assumed to be infinite. 
 :-A box can be carried through the tunnel only if its height is strictly less than the tunnel's height.
 :-Find the volume of each box that can be successfully transported to the other end of the tunnel.
 :-Note: Boxes cannot be rotated.
-The given wap consist of easiest way to solve the above problem.
+The given wap consist of easiest way to solve the above problem.](Boxesthroughthetunnel.cpp)
 
 2:-
- Here we are given n triangles, specifically, their sides a,b and c.  we have to Print them in the same style but sorted by their areas from the smallest one to the largest one. It is guaranteed that all the areas are different.
-
+ [Here we are given n triangles, specifically, their sides a,b and c.  we have to Print them in the same style but sorted by their areas from the smallest one to the largest one. It is guaranteed that all the areas are different.
 The best way to calculate a volume of the triangle with sides a,b and c is Heron's formula:
-The given wap give the easiest and straight forward way to solve this problem.
+The given wap give the easiest and straight forward way to solve this problem.](smalltriangleandlargetriangleareasort.cpp)
 
 3:-
- In this program we will learn hoow to sort a given array using quick sort algorithm.
+ [In this program we will learn hoow to sort a given array using quick sort algorithm.
  Quick sort algorithm is based on divide and conqure approach.
- here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition.
+ here we choose the last element as a pivot element and then we find the two partitions ,one consist all elements less than pivot element and the other one consist of all element greater then the pivot element on the right side of the partition.[(quick_sort.cpp)
  
  4:-
 [ Numeros the Artist had two lists that were permutations of one another. He was very proud. Unfortunately, while transporting them from one exhibition to another, some numbers were lost out of the first list. Can you find the missing numbers?

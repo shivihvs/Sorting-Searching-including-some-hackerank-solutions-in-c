@@ -46,5 +46,5 @@ LINEAR SEARCH:-
 Linear search is a very simple search algorithm. In this type of search, a sequential search is made over all items one by one.
 
 [8:-SELECTION SORT:
-This code implements selection sort algorithm to arrange numbers of an array in ascending order. With a little modification, it will arrange numbers in descending order.](Selection Sort.cpp)
+This code implements selection sort algorithm to arrange numbers of an array in ascending order. With a little modification, it will arrange numbers in descending order.](SelectionSort.cpp)
 

@@ -37,4 +37,9 @@ Divide the unsorted list into N sublists, each containing  element.
 Take adjacent pairs of two singleton lists and merge them to form a list of 2 elements. N will now convert into N/2 lists of size 2.
 Repeat the process till a single sorted list of obtained.
 
+6:- 
+Binary search is the most popular Search algorithm.It is efficient and also one of the most commonly used techniques that is used to solve problems.
+Binary search works only on a sorted set of elements. To use binary search on a collection, the collection must first be sorted.
+
+
 

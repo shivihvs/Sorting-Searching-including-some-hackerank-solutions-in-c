@@ -28,3 +28,13 @@ As an example, the array with some numbers missing,a=[1,4,3,6,2,7] . The origina
 The given program gives us the way to solve the given problem.
 
 
+5:-
+Merge sort is a divide-and-conquer algorithm based on the idea of breaking down a list into several sub-lists until each sublist consists of a single element and merging those sublists in a manner that results into a sorted list.
+
+Idea:
+
+Divide the unsorted list into N sublists, each containing  element.
+Take adjacent pairs of two singleton lists and merge them to form a list of 2 elements. N will now convert into N/2 lists of size 2.
+Repeat the process till a single sorted list of obtained.
+
+

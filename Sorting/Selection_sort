@@ -1,0 +1,46 @@
+#include<stdio.h>
+selection_sort(int n,int *a)
+{
+	int i,j,temp,min,loc;	
+	for(i=0;i<n-1;i++)
+	{
+	min=a[i];
+	loc=i;
+	
+		for(j=i+1;j<n;j++)
+		{
+			if(min>a[j])
+			{
+				min=a[j];
+				loc=j;
+			}
+		}
+		if(loc!=i)
+		{
+			temp=a[i];
+			a[i]=a[loc];
+			a[loc]=temp;
+			
+		}
+	}
+	for(i=0;i<n;i++)
+	{
+		printf("%d  ",a[i]);
+	}
+	
+}
+int main()
+{
+	int n,i,min,j,temp,loc;
+	int a[1000];
+	printf("enter the number of elements:");
+	scanf("%d",&n);
+	printf("enter the array element");
+	for(i=0;i<n;i++) 
+	{
+		scanf("%d",&a[i]);
+	}
+
+	selection_sort(n,a);
+	
+}
